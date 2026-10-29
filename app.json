@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SignalPro AI",
+    "slug": "signalpro-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.aladhoui.signalproai"
+    }
+  }
+}
