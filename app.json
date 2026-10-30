@@ -1,3 +1,4 @@
+
 {
   "expo": {
     "name": "SignalPro AI",
@@ -6,6 +7,11 @@
     "orientation": "portrait",
     "android": {
       "package": "com.aladhoui.signalproai"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1a73453f-c243-4784-9c99-a19c166ef93f"
+      }
     }
   }
 }
